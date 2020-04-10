@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.tonyn.youqiu.Main7Activity">
+
+    <TextView
+        android:text="        西安电子科技大学西电联盟足球社成立于2013年冬，由一群足球有着浓厚热爱的人们自发创建。
+                                    我们是一个新兴社团，有着一群配合默契的绿茵伙伴。我们志在发掘同学们对足球运动的热爱，让大家对这项运动有一个更深入的了解。将汗水挥洒于青草之上，与朋友拼搏于强敌之前。希望每一个喜欢足球喜欢运动的西电人都能来关注我们的活动！
+                                                              社团活动非常丰富，没有特殊情况每周都有例行训练，定期会与校内的顶尖球队过招，切磋交流，放假期间也会去其他学校交流学习。
+                        现任社员大部分都是各院队的成员，平时经常参与校内各级别比赛，水平上有一定保障。欢迎广大足球爱好者来西电联盟足球社，水平不限，性别不限，热爱就可以！
+        社团官方群QQ号：416259507"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView12"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
